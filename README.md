@@ -10,7 +10,7 @@ https://github.com/SherifShamel/free_games.git
 
 ## 🌐 Live Demo
 
-[Coming Soon...]
+https://playfreegames.vercel.app/
 
 ---
 
